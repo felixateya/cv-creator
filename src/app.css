@@ -60,7 +60,7 @@ app {
   padding: 10px;
   border: 1px solid blanchedalmond;
   border-radius: 14px;
-  transition: 0.3s ease-in-out;
+  transition: 0.7s ease-in-out;
 }
 
 .form fieldset legend{

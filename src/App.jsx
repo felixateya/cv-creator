@@ -91,7 +91,7 @@ function App() {
             startDate={startDate}
             endDate={endDate}
             responsibility={responsibility}
-            onChange ={handleChange}
+            onChange={handleChange}
           />
         )}
         {isSubmitted && (
@@ -107,7 +107,7 @@ function App() {
             startDate={startDate}
             endDate={endDate}
             responsibility={responsibility}
-            onChange ={handleChange}
+            onChange={handleChange}
           />
         )}
       </div>
